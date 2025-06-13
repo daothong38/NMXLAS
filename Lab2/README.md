@@ -4,11 +4,12 @@
 
 ## 1. Công nghệ sử dụng:
 
- - Framework: 
+ - Framework: numpy, scipy, imageio, matplotlib, cv2, Pillow
+ - GUI: Tkinter
 
 ## 2. Thuật toán:
 
- - 
+ - Image inverse, Gamma-Correction, Log Transformation, Histogram equalization, Contrast Stretching, Fast Fourier, Butterworth Lowpass Filter, Butterworth Highpass Filter
 
 ## 3. Giải thích cách hoạt động:
 
